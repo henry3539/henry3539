@@ -1,6 +1,6 @@
-# Hi 👋, I'm Yuheng Cao
+<h1 align="center"> Hi 👋, I'm Yuheng Cao</h1>
 
-### A budding Javascript developer
+<h3 align="center"> I will be better</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henry3539&label=Profile views&color=0e75b6&style=flat" alt="henry3539" /> </p>
 
