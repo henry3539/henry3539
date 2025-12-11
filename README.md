@@ -127,8 +127,9 @@ Current research focuses on:
 
 # 🧾 Funding
 • Beijing Forestry University College of Engineering Graduate Innovation Fund Project: "A Fruit Tree Phenotypic Parameter Measurement and Pruning Decision System Based on Ground-Based LiDAR" (Principal Investigator) ¥3,000
+
 • Central Universities Basic Research Fund (Grant No.: BLX202339) (Key Technical Staff) ¥30,000
-# 😃About Me
+# 🏅 Honors and Awards
 Honors
 
 • November 2025, National Graduate Scholarship (National Level) (The highest-level scholarship awarded by the Chinese government to graduate students ranking in the top 0.2% overall, with evaluation covering academic performance, research achievements, and overall performance)
