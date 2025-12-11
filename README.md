@@ -4,7 +4,7 @@
 
 
 # 😃About Me
-- Cao Yuheng, male, born in September 2001, from Jiangxi Province, is currently a Master's student in Mechanical Engineering at Beijing Forestry University, under the supervision of Professor Kang Feng. He is expected to graduate in June 2026. My research interests include computer vision (3D point cloud processing) and 3D reconstruction. I am also leading the 2025 Graduate Innovation Fund project of the College of Engineering, Beijing Forestry University, entitled "A Fruit Tree Phenotypic Parameter Measurement and Pruning Decision System Based on Ground-Based LiDAR".
+- Cao Yuheng, male, born in September 2001, from Jiangxi Province, is currently a Master's student in Mechanical Engineering at Beijing Forestry University, under the supervision of Professor Kang Feng. My research interests include computer vision (3D point cloud processing) and 3D reconstruction. I am also leading the 2025 Graduate Innovation Fund project of the College of Engineering, Beijing Forestry University, entitled "A Fruit Tree Phenotypic Parameter Measurement and Pruning Decision System Based on Ground-Based LiDAR".
 
 - During the research process, I have systematically mastered key technologies such as 3D reconstruction, point cloud semantic segmentation, structural parameter extraction, computer vision, and deep learning model training. I am capable of efficiently developing point cloud perception algorithms and engineering systems. If you have any academic cooperation intentions, please contact me via email at caoyuheng88@bjfu.edu.
 
