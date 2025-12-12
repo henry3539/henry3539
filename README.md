@@ -4,19 +4,19 @@
 
 
 # 😃About Me
-- Cao Yuheng, male, born in September 2001, from Jiangxi Province, is currently a Master's student in Mechanical Engineering at Beijing Forestry University, under the supervision of Professor Kang Feng. My research interests include computer vision (3D point cloud processing) and 3D reconstruction. I am also leading the 2025 Graduate Innovation Fund project of the College of Engineering, Beijing Forestry University, entitled "A Fruit Tree Phenotypic Parameter Measurement and Pruning Decision System Based on Ground-Based LiDAR".
+- Cao Yuheng, male, born in September 2001, from Jiangxi Province, People's Republic of China, is currently a Master's student in Mechanical Engineering at Beijing Forestry University, under the supervision of Professor Kang Feng and Lecturer Miao Yanlong. My research interests include computer vision (3D point cloud processing) and 3D reconstruction. I am also leading the 2025 Graduate Innovation Fund project of the College of Engineering, Beijing Forestry University, entitled "A Fruit Tree Phenotypic Parameter Measurement and Pruning Decision System Based on Ground-Based LiDAR".
 
-- During the research process, I have systematically mastered key technologies such as 3D reconstruction, point cloud semantic segmentation, structural parameter extraction, computer vision, and deep learning model training. I am capable of efficiently developing point cloud perception algorithms and engineering systems. If you have any academic cooperation intentions, please contact me via email at caoyuheng88@bjfu.edu.
+- During the research process, I have systematically mastered key technologies such as 3D reconstruction, point cloud semantic segmentation, structural parameter extraction, computer vision, and deep learning model training. I am capable of efficiently developing point cloud perception algorithms and engineering systems. If you have any academic cooperation intentions, please contact me via email at - 📝 **[caoyuheng88@bjfu.edu](caoyuheng88@bjfu.edu)**.
 
-- Research Interests: Fruit tree phenotypic analysis, 3D reconstruction, intelligent point cloud processing, intelligent equipment for forestry and fruit industry.
+- Research Interests: Fruit tree phenotypic analysis, 3D reconstruction, intelligent point cloud processing, intelligent equipment for forestry and fruit tree industry.
 # 🔥News
 - 11/2025: Awarded the National Graduate Scholarship (National Level) (The highest-level scholarship awarded by the Chinese government to graduate students ranking in the top 0.2% overall, with evaluation covering academic performance, research achievements, and overall performance).
 
-- 10/2025: Awarded the title of "Outstanding Graduate Student" (University Level) by Beijing Forestry University (Only awarded twice during the Master's program, successfully receiving the award both times, demonstrating outstanding overall performance).
+- 10/2025: Awarded the title of "Outstanding Graduate Student" (University Level) by Beijing Forestry University (successfully won the award twice in a row during the master's period, with excellent overall performance).
 
 - 10/2025: Awarded the First-Class Graduate Academic Scholarship (University Level) by Beijing Forestry University (Received for three consecutive years during the Master's program, ranking among the top in both academic research and course performance).
 
-- 07/2025: Published an SCI Q2 paper as the first author entitled "A novel adaptive cuboid regional growth algorithm for trunk-branch segmentation of point clouds from two fruit tree species".
+- 07/2025: Published a paper in SCI Q1 journals as the first author entitled "A novel adaptive cuboid regional growth algorithm for trunk-branch segmentation of point clouds from two fruit tree species".
 
 - 03/2025: Led the Graduate Innovation Fund project of the College of Engineering, Beijing Forestry University, entitled "A Fruit Tree Phenotypic Parameter Measurement and Pruning Decision System Based on Ground-Based LiDAR".
 
@@ -46,7 +46,7 @@ Current research focuses on:
 
 • Verify the algorithm's generalization ability based on point clouds of different fruit tree species
 
-• Published as first author in an SCI Q2 journal (Agriculture, 2025)
+• Published as first author in an SCI Q1 journal (Agriculture-Basel, 2025)
 
 2. BranchMatch: A fruit tree point cloud registration method based on local structural features
 
@@ -126,13 +126,13 @@ Current research focuses on:
 • A method for pruning point localization of dormant tall spindle-shaped apple trees based on image and 3D point cloud fusion. Cao Yuheng (fourth author). Smart Agriculture (Chinese and English), 2025
 
 # 🧾 Funding
-• Beijing Forestry University College of Engineering Graduate Innovation Fund Project: "A Fruit Tree Phenotypic Parameter Measurement and Pruning Decision System Based on Ground-Based LiDAR" (Principal Investigator) ¥3,000
+• Beijing Forestry University College of Engineering Graduate Innovation Fund Project: "A Fruit Tree Phenotypic Parameter Measurement and Pruning Decision System Based on Ground-Based LiDAR" (Principal Investigator) 3,000 RMB
 
-• Central Universities Basic Research Fund (Grant No.: BLX202339) (Key Technical Staff) ¥30,000
+• Central Universities Basic Research Fund (Grant No.: BLX202339) (Key Technical Staff) 30,000 RMB
 # 🏅 Honors and Awards
 Honors
 
-• November 2025, National Graduate Scholarship (National Level) (The highest-level scholarship awarded by the Chinese government to graduate students ranking in the top 0.2% overall, with evaluation covering academic performance, research achievements, and overall performance)
+• November 2025, National Scholarship for Graduate students (National Level) (The highest honor award established by China, with evaluation covering academic performance, research achievements, and overall performance)
 
 • December 2025, Beijing Forestry University "Outstanding Graduate Student" title (University Level) (Only awarded twice during the Master's program, successfully received both times, demonstrating outstanding overall performance)
 
