@@ -10,7 +10,7 @@
 
 - Research Interests: Fruit tree phenotypic analysis, 3D reconstruction, intelligent point cloud processing, intelligent equipment for forestry and fruit tree industry.
 # 🔥News
-- 11/2025: Awarded the National Graduate Scholarship (National Level) (The highest-level scholarship awarded by the Chinese government to graduate students ranking in the top 0.2% overall, with evaluation covering academic performance, research achievements, and overall performance).
+- 11/2025: Awarded the National Graduate Scholarship (National Level) (under the supervision of Professor Kang Feng and Lecturer Miao Yanlong, with evaluation covering academic performance, research achievements, and overall performance).
 
 - 10/2025: Awarded the title of "Outstanding Graduate Student" (University Level) by Beijing Forestry University (successfully won the award twice in a row during the master's period, with excellent overall performance).
 
@@ -134,7 +134,7 @@ Honors
 
 • November 2025, National Scholarship for Graduate students (National Level) (The highest honor award established by China, with evaluation covering academic performance, research achievements, and overall performance)
 
-• December 2025, Beijing Forestry University "Outstanding Graduate Student" title (University Level) (Only awarded twice during the Master's program, successfully received both times, demonstrating outstanding overall performance)
+• December 2025, Beijing Forestry University "Outstanding Graduate Student" title (University Level) (successfully won the award twice in a row during the master's period, with excellent overall performance)
 
 • October 2025, Beijing Forestry University First-Class Graduate Academic Scholarship (University Level) (Received for three consecutive years during the Master's program, with top rankings in both academic research and coursework)
 
